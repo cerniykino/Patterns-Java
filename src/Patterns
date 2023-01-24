@@ -12,6 +12,6 @@ Factory Method +
 Abstract Factory+
 Singleton+
 Prototype+
-Adapter
-Decorator
+Adapter+
+Decorator+
 Iterator
